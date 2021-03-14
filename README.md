@@ -2,10 +2,7 @@
 
 ## Team and project overview
 
-<details open="open">
-<summary><h3 style="display: inline-block">Team presentation</h2></summary>
-Present your team. Explain in a succinct way how you organised yourself.
-</details>
+Team members are Selma, Raphaël and Victor. Thank you guys !
 
 ### General strategy
 
