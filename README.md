@@ -44,6 +44,8 @@ Deepen the graph analysis and produce a rule based approach
 
 Can be usefull for pretraining ? (can be ecological)
 
+Policy distillation
+
 ## Project usage
 
 Explain the prerequisites, the environment setup and the procedure and guidelines to run the code / model.
