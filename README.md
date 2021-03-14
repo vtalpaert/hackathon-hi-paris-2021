@@ -16,6 +16,9 @@ Present your team. Explain in a succinct way how you organised yourself.
 A 3-line overview understandable by a non-technical person.
 </details>
 
+Deep RL and in depth analysis of data
+Different tricks to reduce the carbon footprint/energy usage
+
 ## Scientific approach
 
 <details open="open">
@@ -23,11 +26,23 @@ A 3-line overview understandable by a non-technical person.
 Describe the approach(es) you adopted to solve the problem raised in this hackaton. Strive to justify your choices.
 </details>
 
+Prioritized experience replay
+Float16
+Early stop
+
+Normalisation (basic)
+Data augmentation (week and season)
+
+Hyperparam fine tuning (small vs big networks)
+
 <details open="open">
 <summary><h3 style="display: inline-block">Future improvements</h2></summary>
 Explain what next steps you envisage.
 </details>
 
+Deepen the graph analysis and produce a rule based approach
+
+Can be usefull for pretraining ? (can be ecological)
 
 ## Project usage
 
