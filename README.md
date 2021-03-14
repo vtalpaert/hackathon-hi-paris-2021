@@ -2,7 +2,10 @@
 
 ## Team and project overview
 
-Team members are Selma, Raphaël and Victor. Thank you guys !
+Team members are Selma Azennar, Raphaël Teitgen and Victor Talpaert.
+Selma is a ENSAE and HEC student, passionate about yoga and data science. Victor likes recycling and half baked AI. Raphaël enjoys building computers and pushing ideas to their limits. Raphaël and Victor are both doctoral candidates from ENSTA Paris.
+
+Thank you guys !
 
 ### General strategy
 
@@ -26,7 +29,7 @@ Lighter networks were of great help for us, especially due to overfitting caused
 
 Normalisation is a necessary step in most tasks. We brought all parameters to a 0..1 range. Additionnaly, we introduced two extra features; the week progress and the year progress. They encode how close we are to the weekend and the seasons respectively.
 
-### Future improvement
+### Future improvement
 
 Deepen the graph analysis and produce a rule based approach
 
