@@ -31,11 +31,11 @@ Normalisation is a necessary step in most tasks. We brought all parameters to a 
 
 ### Future improvement
 
-Deepen the graph analysis and produce a rule based approach
+The building 3 is not as similar as building 1 is to 2. For this, different networks sizes should be chosen, instead of a one-size-fit-all (not pun intended).
 
-Can be usefull for pretraining ? (can be ecological)
+Still, with a common network, pretrained network could fasten the training. As well as feeding data from the rule based approaches.
 
-Policy distillation
+Policy distillation would be a nice way to simplify a network
 
 ## Project usage
 
