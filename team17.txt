@@ -1,0 +1,1 @@
+{"building_1_performance": -4089.2658357035007, "building_2_performance": -13630.886119011686, "building_3_performance": -16741.52610708305, "frugality": 911.742256015}
